@@ -1,4 +1,4 @@
-/ Hi i'm Pikterra / 
+/ Hi i'm Pikterra, i am a beginner programmer / 
 
 / I'm learning C#, C++, Python and more ! /
 
