@@ -1,6 +1,6 @@
 / Hi i'm Pikterra, i am a beginner programmer / 
 
-/ I'm learning C++, assembly , low level stuff /
+/ Im passionated in cybersecurity /
 
 / I enjoy programming and gaming /
 
