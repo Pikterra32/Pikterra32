@@ -1,5 +1,3 @@
-Aspiring Programmer !
-
 French 🇫🇷
 
 Interested in low-level
